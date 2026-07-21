@@ -4,3 +4,13 @@
 .obsidian/plugins/
 .obsidian/hotkeys.json
 .obsidian/core-plugins-migration.json
+*.dSYM/
+*.o
+*.exe
+
+# 编译产物
+*.dSYM/
+*.o
+*.exe
+!*.cpp
+!*.md
