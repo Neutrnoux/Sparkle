@@ -1,14 +1,6 @@
 .DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/
-.obsidian/hotkeys.json
-.obsidian/core-plugins-migration.json
-*.dSYM/
-*.o
-*.exe
-
-# 编译产物
+.obsidian/
+.vscode/
 *.dSYM/
 *.o
 *.exe
